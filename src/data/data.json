@@ -1,0 +1,148 @@
+[
+    {
+        "id": 1,
+        "titulo": "Hoddie 1",
+        "imagen": "./img/productos/hoddie1.webp",
+        "categoria": "Abrigo",
+        "descripcion": "La ropa que mas te gusta",
+        "precio": 2000
+    },
+    {
+        "id": 2,
+        "titulo": "Hoddie 2",
+        "imagen": "./img/productos/hoddie2.webp",
+        "categoria": "Abrigo",
+        "descripcion": "La ropa que mas te gusta",
+        "precio": 2000
+    },
+    {
+        "id": 3,
+        "titulo": "Hoddie 3",
+        "imagen": "./img/productos/hoddie3.webp",
+        "categoria": "Abrigo",
+        "descripcion": "La ropa que mas te gusta",
+        "precio": 2000
+    },
+    {
+        "id": 4,
+        "titulo": "Hoddie 4",
+        "imagen": "./img/productos/hoddie4.webp",
+        "categoria": "Abrigo",
+        "descripcion": "La ropa que mas te gusta",
+        "precio": 2000
+    },
+    {
+        "id": 5,
+        "titulo": "Hoddie 5",
+        "imagen": "./img/productos/hoddie5.webp",
+        "categoria": "Abrigo",
+        "descripcion": "La ropa que mas te gusta",
+        "precio": 2000
+    },
+    {
+        "id": 6,
+        "titulo": "T-Shirt 1",
+        "imagen": "./img/productos/remera1.jpg",
+        "categoria": "Remera",
+        "descripcion": "La ropa que mas te gusta",
+        "precio": 1000
+    },
+    {
+        "id": 7,
+        "titulo": "T-Shirt 2",
+        "imagen": "./img/productos/remera2.jpg",
+        "categoria": "Remera",
+        "descripcion": "La ropa que mas te gusta",
+        "precio": 1000
+    },
+    {
+        "id": 8,
+        "titulo": "T-Shirt 3",
+        "imagen": "./img/productos/remera3.jpg",
+        "categoria": "Remera",
+        "descripcion": "La ropa que mas te gusta",
+        "precio": 1000
+    },
+    {
+        "id": 9,
+        "titulo": "T-Shirt 4",
+        "imagen": "./img/productos/remera4.jpg",
+        "categoria": "Remera",
+        "descripcion": "La ropa que mas te gusta",
+        "precio": 1000
+    },
+    {
+        "id": 10,
+        "titulo": "T-Shirt 5",
+        "imagen": "./img/productos/remera5.jpg",
+        "categoria": "Remera",
+        "descripcion": "La ropa que mas te gusta",
+        "precio": 1000
+    },
+    {
+        "id": 11,
+        "titulo": "T-Shirt 6",
+        "imagen": "./img/productos/remera6.jpg",
+        "categoria": "Remera",
+        "descripcion": "La ropa que mas te gusta",
+        "precio": 1000
+    },
+    {
+        "id": 12,
+        "titulo": "T-Shirt 7",
+        "imagen": "./img/productos/remera7.jpg",
+        "categoria": "Remera",
+        "descripcion": "La ropa que mas te gusta",
+        "precio": 1000
+    },
+    {
+        "id": 13,
+        "titulo": "T-Shirt 8",
+        "imagen": "./img/productos/remera8.jpg",
+        "categoria": "Remera",
+        "descripcion": "La ropa que mas te gusta",
+        "precio": 1000
+    },
+    {
+        "id": 14,
+        "titulo": "Jogger 1",
+        "imagen": "./img/productos/jogger1.webp",
+        "categoria": "Jogger",
+        "descripcion": "La ropa que mas te gusta",
+        "precio": 1500
+    },
+    {
+        "id": 15,
+        "titulo": "Jogger 2",
+        "imagen": "./img/productos/jogger2.webp",
+        "categoria": "Jogger",
+        "descripcion": "La ropa que mas te gusta",
+        "precio": 1500
+    },
+    {
+        "id": 16,
+        "titulo": "Jogger 3",
+        "imagen": "./img/productos/jogger3.webp",
+        "categoria": "Jogger",
+        "descripcion": "La ropa que mas te gusta",
+        "precio": 1500
+    },
+    {
+        "id": 17,
+        "titulo": "Jogger 4",
+        "imagen": "./img/productos/jogger4.webp",
+        "categoria": "Jogger",
+        "descripcion": "La ropa que mas te gusta",
+        "precio": 1500
+    },
+    {
+        "id": 18,
+        "titulo": "Jogger 5",
+        "imagen": "./img/productos/jogger5.webp",
+        "categoria": "Jogger",
+        "descripcion": "La ropa que mas te gusta",
+        "precio": 1500
+    }
+
+]
+
