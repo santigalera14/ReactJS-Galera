@@ -120,3 +120,13 @@
   margin-top: 2rem;
   font-weight: 600;
 }
+
+.item-add-button {
+  text-decoration: none;
+  background-color: var(--clr-main);
+  color: white;
+  padding: .5rem;
+  width: max-content;
+  border-radius: .5rem;
+  transition: .2s;
+}
