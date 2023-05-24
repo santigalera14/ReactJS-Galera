@@ -5,7 +5,8 @@
         "imagen": "./img/productos/hoddie1.webp",
         "categoria": "Abrigo",
         "descripcion": "La ropa que mas te gusta",
-        "precio": 2000
+        "precio": 2000,
+        "stock" : 10
     },
     {
         "id": 2,
@@ -13,7 +14,8 @@
         "imagen": "./img/productos/hoddie2.webp",
         "categoria": "Abrigo",
         "descripcion": "La ropa que mas te gusta",
-        "precio": 2000
+        "precio": 2000,
+        "stock" : 10
     },
     {
         "id": 3,
@@ -21,7 +23,8 @@
         "imagen": "./img/productos/hoddie3.webp",
         "categoria": "Abrigo",
         "descripcion": "La ropa que mas te gusta",
-        "precio": 2000
+        "precio": 2000,
+        "stock" : 10
     },
     {
         "id": 4,
@@ -29,7 +32,8 @@
         "imagen": "./img/productos/hoddie4.webp",
         "categoria": "Abrigo",
         "descripcion": "La ropa que mas te gusta",
-        "precio": 2000
+        "precio": 2000,
+        "stock" : 10
     },
     {
         "id": 5,
@@ -37,7 +41,8 @@
         "imagen": "./img/productos/hoddie5.webp",
         "categoria": "Abrigo",
         "descripcion": "La ropa que mas te gusta",
-        "precio": 2000
+        "precio": 2000,
+        "stock" : 10
     },
     {
         "id": 6,
@@ -45,7 +50,8 @@
         "imagen": "./img/productos/remera1.jpg",
         "categoria": "Remera",
         "descripcion": "La ropa que mas te gusta",
-        "precio": 1000
+        "precio": 1000,
+        "stock" : 10
     },
     {
         "id": 7,
@@ -53,7 +59,8 @@
         "imagen": "./img/productos/remera2.jpg",
         "categoria": "Remera",
         "descripcion": "La ropa que mas te gusta",
-        "precio": 1000
+        "precio": 1000,
+        "stock" : 10
     },
     {
         "id": 8,
@@ -61,7 +68,8 @@
         "imagen": "./img/productos/remera3.jpg",
         "categoria": "Remera",
         "descripcion": "La ropa que mas te gusta",
-        "precio": 1000
+        "precio": 1000,
+        "stock" : 10
     },
     {
         "id": 9,
@@ -69,7 +77,8 @@
         "imagen": "./img/productos/remera4.jpg",
         "categoria": "Remera",
         "descripcion": "La ropa que mas te gusta",
-        "precio": 1000
+        "precio": 1000,
+        "stock" : 10
     },
     {
         "id": 10,
@@ -77,7 +86,8 @@
         "imagen": "./img/productos/remera5.jpg",
         "categoria": "Remera",
         "descripcion": "La ropa que mas te gusta",
-        "precio": 1000
+        "precio": 1000,
+        "stock" : 10
     },
     {
         "id": 11,
@@ -85,7 +95,8 @@
         "imagen": "./img/productos/remera6.jpg",
         "categoria": "Remera",
         "descripcion": "La ropa que mas te gusta",
-        "precio": 1000
+        "precio": 1000,
+        "stock" : 10
     },
     {
         "id": 12,
@@ -93,7 +104,8 @@
         "imagen": "./img/productos/remera7.jpg",
         "categoria": "Remera",
         "descripcion": "La ropa que mas te gusta",
-        "precio": 1000
+        "precio": 1000,
+        "stock" : 10
     },
     {
         "id": 13,
@@ -101,7 +113,8 @@
         "imagen": "./img/productos/remera8.jpg",
         "categoria": "Remera",
         "descripcion": "La ropa que mas te gusta",
-        "precio": 1000
+        "precio": 1000,
+        "stock" : 10
     },
     {
         "id": 14,
@@ -109,7 +122,8 @@
         "imagen": "./img/productos/jogger1.webp",
         "categoria": "Jogger",
         "descripcion": "La ropa que mas te gusta",
-        "precio": 1500
+        "precio": 1500,
+        "stock" : 10
     },
     {
         "id": 15,
@@ -117,7 +131,8 @@
         "imagen": "./img/productos/jogger2.webp",
         "categoria": "Jogger",
         "descripcion": "La ropa que mas te gusta",
-        "precio": 1500
+        "precio": 1500,
+        "stock" : 10
     },
     {
         "id": 16,
@@ -125,7 +140,8 @@
         "imagen": "./img/productos/jogger3.webp",
         "categoria": "Jogger",
         "descripcion": "La ropa que mas te gusta",
-        "precio": 1500
+        "precio": 1500,
+        "stock" : 10
     },
     {
         "id": 17,
@@ -133,7 +149,8 @@
         "imagen": "./img/productos/jogger4.webp",
         "categoria": "Jogger",
         "descripcion": "La ropa que mas te gusta",
-        "precio": 1500
+        "precio": 1500,
+        "stock" : 10
     },
     {
         "id": 18,
@@ -141,7 +158,8 @@
         "imagen": "./img/productos/jogger5.webp",
         "categoria": "Jogger",
         "descripcion": "La ropa que mas te gusta",
-        "precio": 1500
+        "precio": 1500,
+        "stock" : 10
     }
 
 ]

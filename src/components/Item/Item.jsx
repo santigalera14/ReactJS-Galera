@@ -9,7 +9,6 @@ const Item = ( {producto} ) => {
         <h4>{producto.titulo}</h4>
         <p>Precio: ${producto.precio}</p>
         <p>Categoria: {producto.categoria}</p>
-        <button className='item-add-button'>Agregar al carrito</button>
         <Link className='ver-mas' to={`/item/${producto.id}`}>Ver mas</Link>
       </div>
     </div>
